@@ -3,10 +3,11 @@ layout: about
 title: about
 permalink: /
 description: > 
-      <center><p>Assistant Professor, Cornell University</p>
-      <p>ECE + Cornell Tech (NYC)</p>
-      <p>mohamed@cornell.edu [cv]</p>
-      <p>Principal Scientist, Samsung AI</p></center>
+      Assistant Professor <br>
+      ECE, Cornell University <br>
+      <a href="https://goo.gl/maps/UvMYZY1iUfLt3XCT6">Cornell Tech</a>, <a href="http://csl.cornell.edu">Cornell CSL</a> <br>
+      <span><a href="mailto:mohamed@cornell.edu">[mohamed@cornell.edu]</a> <a href="assets/pdf/cv.pdf">[cv]</a></span> </h1> <br>
+      <b>Researcher,</b> <b>Samsung AI</b> <br>
 
 profile:
   align: right
