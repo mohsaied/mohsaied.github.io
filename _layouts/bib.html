@@ -4,11 +4,19 @@
 <div class="row">
   <div class="col-sm-2 abbr">
   {% if entry.abbr %}
+  {% if entry.type == "article" %}
+    {% if site.data.venues[entry.abbr] %}
+    <abbr class="badge" style="background-color: purple"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>
+    {% else %}
+    <abbr class="badge" style="background-color: purple">{{entry.abbr}}</abbr>
+    {% endif %}  
+  {% elsif entry.type == "inproceedings" %}
     {% if site.data.venues[entry.abbr] %}
     <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>
     {% else %}
     <abbr class="badge">{{entry.abbr}}</abbr>
-    {% endif %}
+    {% endif %}  
+  {% endif %}
   {% endif %}
   </div>
 
@@ -17,10 +25,19 @@
       {{reference}}
     {% else %}
       <div class="title">
-        {% if entry.pdf %}
-        <a href="{{ entry.pdf }}" target=_blank>{{entry.title}}</a>
-        {% else %}
-        {{entry.title}}
+        
+        {% if entry.type == "article" %}
+          {% if entry.pdf %}
+          <a href="{{ entry.pdf }}" style="color: purple" target=_blank>{{entry.title}}</a>
+          {% else %}
+          {{entry.title}} <!-- TODO color or remove-->
+          {% endif %}
+        {% elsif entry.type == "inproceedings" %}
+          {% if entry.pdf %}
+          <a href="{{ entry.pdf }}" target=_blank>{{entry.title}}</a>
+          {% else %}
+          {{entry.title}}
+          {% endif %}
         {% endif %}
       </div>
       <div class="author">
@@ -79,7 +96,7 @@
       {% elsif entry.type == "inproceedings" %}
         <em>{{entry.booktitle}}</em>
       {% endif %}
-      {% if entry.year %}
+      {% if entry.yearr %} <!-- TODO deprecate-->
         {{entry.year}}
       {% endif %}
       </div>
