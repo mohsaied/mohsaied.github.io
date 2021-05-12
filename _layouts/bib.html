@@ -100,7 +100,17 @@
         {{entry.year}}
       {% endif %}
       </div>
+
     {% endif %}
+
+    <p  style="font-size:0.8rem; color: rgb(199, 139, 9)">
+    {% if entry.award %}
+      :sparkles:{{entry.award}}
+    {% endif %}
+    {% if entry.award2 %}
+      <br>:sparkles:{{entry.award2}}
+    {% endif %}
+    </p>
 
     <div class="links">
     {% if entry.abstract %}

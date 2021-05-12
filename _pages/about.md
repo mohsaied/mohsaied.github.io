@@ -3,9 +3,9 @@ layout: about
 title: about
 permalink: /
 description: > 
-      Assistant Professor <br>
-      ECE, Cornell University <br>
-      <a href="https://goo.gl/maps/UvMYZY1iUfLt3XCT6">Cornell Tech</a>, <a href="http://csl.cornell.edu">Cornell CSL</a> <br>
+      <br>Assistant Professor<br>
+      <a href="https://www.ece.cornell.edu">ECE</a> and <a href="https://www.tech.cornell.edu">Cornell Tech</a> at <a href="https://www.cornell.edu">Cornell University</a> <br>
+      <a href="http://csl.cornell.edu">Computer Systems Lab</a> <br>
       <span><a href="mailto:mohamed@cornell.edu">[mohamed@cornell.edu]</a> <a href="assets/pdf/cv.pdf">[cv]</a></span> </h1> <br>
       <b>Researcher,</b> <b>Samsung AI</b> <br>
 
