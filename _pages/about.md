@@ -19,8 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am with [Samsung AI Center Cambridge](https://research.samsung.com/aicenter_cambridge) researching the interplay between machine learning algorithms and computer architecture.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+More about me: I did my PhD with [Prof. Vaughn Betz](https://www.eecg.utoronto.ca/~vaughn) at the University of Toronto, where I proposed the addition of an embedded Network on Chip to modern FPGAs -- 5 years later, [Xilinx](https://dl.acm.org/citation.cfm?id=3293908) announced adopting embedded NoCs for their FPGAs and [Achronix](https://www.achronix.com/product/speedster7t/) followed suit.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Even more about me: After finishing my PhD, I worked for 3 years at Intel, building both [software and hardware](https://software.intel.com/en-us/openvino-toolkit) for a deep neural network accelerator on FPGAs. 

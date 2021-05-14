@@ -1,6 +1,6 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"LaneX": # works! populate with students mainly later
+  - firstname: ["Nicholas", "Nicholas D."]
+    url: http://niclane.org/
 
 "Podolsky":
   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
