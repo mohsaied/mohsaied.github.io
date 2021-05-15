@@ -1,13 +1,13 @@
 <div class="news">
-  <h2>News</h2>
+  <h4 style="font-weight: bold;">News</h4>
   {% if site.news  %}
-    <div class="table-responsive">
+    <div class="table-responsive" style="height:100px;overflow:auto;">
       <table class="table table-sm table-borderless">
       {% assign news = site.news | reverse %}
       {% for item in news limit: site.news_limit %}
         <tr>
-          <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
-          <td>
+          <th scope="row" style="font-size:0.9rem;padding:1px 1px 1px 1px;">{{ item.date | date: "%b %Y" }}</th>
+          <td style="font-size:0.9rem;;padding:1px 1px 1px 1px;">
             {% if item.inline %}
               {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
             {% else %}
