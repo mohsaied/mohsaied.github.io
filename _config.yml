@@ -89,6 +89,9 @@ collections:
   projects:
     output: true
     permalink: /research/:path/
+  team:
+    output: true
+    permalink: /team/:path/
 
 news_limit: 100
 
