@@ -1,7 +1,7 @@
 <div class="news">
   <h4 style="font-weight: bold;">News</h4>
   {% if site.news  %}
-    <div class="table-responsive" style="height:100px;overflow:auto;">
+    <div class="table-responsive" style="height:150px;overflow:auto;">
       <table class="table table-sm table-borderless">
       {% assign news = site.news | reverse %}
       {% for item in news limit: site.news_limit %}
