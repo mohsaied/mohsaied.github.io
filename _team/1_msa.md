@@ -8,11 +8,12 @@ redirect:
 category: 
 ---
 
-[Click here to go to my bio.](/bio)
+You clicked on my photo! That means you found a page where I keep random things about myself that do not necessarily fit anywhere else on this webpage. If you were looking for my [formal bio, please click here.](/bio)
 
-You clicked on my photo! That means you found a page where I keep random things about myself that do not necessarily fit anywhere else on this webpage.
-
-Did you know? My [brother](https://sites.brown.edu/abdelfattah/) is an incredibly talented professor in the neuroscience department at Brown University. 
+### Random factoids:
+ - My [brother](https://sites.brown.edu/abdelfattah/) is an incredibly talented professor in the neuroscience department at Brown University. 
+ - I played waterpolo when I was a teenager and won multiple national championships in Egypt.
+ - I love cycling and hate cars - cities that do not have good cycling infrastructure are just built incorrectly.
 
 ## Pre-Cornell
 The rest of this page has snippets of information about my life before joining Cornell.
