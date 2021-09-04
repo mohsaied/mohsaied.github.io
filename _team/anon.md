@@ -3,7 +3,7 @@ layout: page
 title: Prospective Students
 description: Join our Team!
 img: /assets/img/anon.jpg
-importance: 2
+importance: 3
 category: 
 ---
 
