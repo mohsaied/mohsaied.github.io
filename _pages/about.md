@@ -31,7 +31,7 @@ social: true  # includes social icons at the bottom of the page
         <td style="padding:0px 40px 0px 20px;text-align:left">
         <h5>My Office:</h5>
         <p>
-            Bloomberg Center ### <br>
+            Bloomberg Center 257 <br>
             Cornell Tech <br>
             2 West Loop Road <br>
             New York, NY 10044 <br>
