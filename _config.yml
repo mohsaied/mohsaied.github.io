@@ -99,6 +99,9 @@ collections:
   team:
     output: true
     permalink: /team/:path/
+  courses:
+    output: true
+    permalink: /teaching/:path/
 
 news_limit: 100
 
