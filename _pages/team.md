@@ -2,7 +2,7 @@
 layout: page
 title: Team
 permalink: /team/
-description:
+description: Click for the <a href="https://confluence.cornell.edu/display/abdelfattah">internal group wiki</a>.
 nav: true
 display_categories: [current, past]
 horizontal: false
