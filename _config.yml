@@ -10,7 +10,7 @@ email: mohamed@cornell.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Research portal for Mohamed's research group at Cornell Tech.
 footer_text:
-announcement: I am starting at Cornell Tech in January 2022.<br>Get in touch if you are <a href="/team/anon">interested in joining my team!</a>
+announcement: # I am starting at Cornell Tech in January 2022.<br>Get in touch if you are <a href="/team/anon">interested in joining my team!</a>
   
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
