@@ -5,5 +5,5 @@ description: PhD Student
 img: /assets/img/yash.jpg
 importance: 2
 redirect: https://akhauriyash.github.io/
-category: 
+category: current
 ---
