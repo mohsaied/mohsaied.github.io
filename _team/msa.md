@@ -5,7 +5,7 @@ description: Assistant Professor
 img: /assets/img/prof_pic.jpg
 importance: 1
 redirect:
-category: 
+category: current
 ---
 
 You clicked on my photo! That means you found a page where I keep random things about myself that do not necessarily fit anywhere else on this webpage. If you were looking for my [formal bio, please click here.](/bio)
