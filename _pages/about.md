@@ -52,5 +52,5 @@ Our goal is to enable efficient deep learning in both mobile devices and datacen
 Our current research projects include:
 - New programmable hardware architectures based on FPGAs.
 - Automated machine learning (AutoML) and neural network compression.
-- Near-sensor machine learning for mobile devices.
 - Pre- and post-processing in machine learning systems.
+- Near-sensor machine learning for mobile devices.
