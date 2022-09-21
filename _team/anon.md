@@ -4,7 +4,7 @@ title: Prospective Students
 description: Join our team!
 img: /assets/img/anon.jpg
 importance: 99
-category: 
+category: hide
 ---
 
 I am looking for motivated students who are interested in deep learning systems and/or reconfigurable computing.
