@@ -4,4 +4,4 @@ date: 2022-12-2 15:59:00-0400
 inline: true
 ---
 
-Mohamed gave talks at [https://www.zewailcity.edu.eg/main/index.php?lang=en](Zewail UST), [https://www.youtube.com/watch?v=OnqnE4KrbSA](Rutgers Efficient AI Seminar), and [https://www.fai.institute/summit](FAI Summit).
+Mohamed gave talks at [Zewail UST](https://www.zewailcity.edu.eg/main/index.php?lang=en), [Rutgers Efficient AI Seminar](https://www.youtube.com/watch?v=OnqnE4KrbSA), and [FAI Summit](https://www.fai.institute/summit).
