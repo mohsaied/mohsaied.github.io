@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: See my <a href="https://scholar.google.com/citations?user=q4wBpWAAAAAJ">Google Scholar profile</a> for more information.<br>Click <a href="#books">here for books, patents and theses that I (co-)authored</a>.
-years: [2022,2021,2020,2019,2018,2016,2015,2014,2013,2012,2011,2009]
+years: [2023,2022,2021,2020,2019,2018,2016,2015,2014,2013,2012,2011,2009]
 nav: true
 ---
 
