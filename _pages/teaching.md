@@ -8,34 +8,32 @@ display_categories:
 horizontal: false
 ---
 
-<div class="projects">
-  {% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-    {% for category in page.display_categories %}
-      <h2 class="category">{{category}}</h2>
-      {% assign categorized_projects = site.courses | where: "category", category %}
-      {% assign sorted_projects = categorized_projects | sort: "importance" %}
-      <!-- Generate cards for each project -->
-      <div class="grid">
-        {% for project in sorted_projects %}
-          {% include courses.html %}
-        {% endfor %}
-      </div>
-    {% endfor %}
 
-  {% else %}
-  <!-- Display projects without categories -->
-    {% assign sorted_projects = site.courses | sort: "importance" %}
-    <!-- Generate cards for each project -->
-    <div class="grid">
-      {% for project in sorted_projects %}
-        {% include courses.html %}
-      {% endfor %}
-    </div>
-  {% endif %}
+<table style="border: none !important;">
 
-</div>
+  <tr style="border: none !important;">
+    <th style="border: none !important; text-align:right;"><img src="/assets/img/ece5545_logo.jpeg" width="120"/></th>
+    <th style="border: none !important;"> <b>Spring 2024</b>  <br> <a href="https://abdelfattah-class.github.io/ece5545"><font size="+1">ECE 5545 / CS 5775 Machine Learning Hardware and Systems</font></a></th>
+  </tr>
 
-<div>
-<br><br><br><br><br><br><br><br><br><br><br><br>
-</div>
+  <tr style="border: none !important;">
+    <th style="border: none !important; text-align:right;"><img src="/assets/img/ece6950_logo.jpeg" width="120"/></th>
+    <th style="border: none !important;"> <b>Spring 2024</b>  <br> <a href="https://abdelfattah-class.github.io/ece6950/"><font size="+1">ECE 6950 Reconfigurable Computing</font></a></th>
+  </tr>
+
+  <tr style="border: none !important;">
+    <th style="border: none !important; text-align:right;"><img src="/assets/img/btt_logo.jpeg" width="120"/></th>
+    <th style="border: none !important;"> <b>Spring 2024</b>  <br> <a href="https://www.breakthroughtech.org/what-we-do/the-ai-program/"><font size="+1">Break Through Tech Intro to Machine Learning</font></a></th>
+  </tr>
+
+  <tr style="border: none !important;">
+    <th style="border: none !important; text-align:right;"><img src="/assets/img/ece5545_logo.jpeg" width="120"/></th>
+    <th style="border: none !important;"> <b>Spring 2023</b>  <br> <a href="https://abdelfattah-class.github.io/ece5545/sp23"><font size="+1">ECE 5545 / CS 5775 Machine Learning Hardware and Systems</font></a></th>
+  </tr>
+
+  <tr style="border: none !important;">
+    <th style="border: none !important; text-align:right;"><img src="/assets/img/ece5545_logo.jpeg" width="120"/></th>
+    <th style="border: none !important;"> <b>Spring 2022</b>  <br> <a href="https://abdelfattah-class.github.io/ece5545/sp22"><font size="+1">ECE 5545 / CS 5775 Machine Learning Hardware and Systems</font></a></th>
+  </tr>
+
+</table>

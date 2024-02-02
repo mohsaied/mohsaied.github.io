@@ -8,7 +8,6 @@ display_categories: [current, past]
 horizontal: false
 ---
 <div class="projects">
-  {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
     {% for category in page.display_categories %}
       <h2 class="category">{{category}}</h2>
@@ -21,16 +20,5 @@ horizontal: false
         {% endfor %}
       </div>
     {% endfor %}
-
-  {% else %}
-  <!-- Display projects without categories -->
-    {% assign sorted_projects = site.team | sort: "importance" %}
-    <!-- Generate cards for each project -->
-    <div class="grid">
-      {% for project in sorted_projects %}
-        {% include people.html %}
-      {% endfor %}
-    </div>
-  {% endif %}
 
 </div>
