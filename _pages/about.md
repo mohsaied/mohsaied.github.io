@@ -4,7 +4,7 @@ title: about
 permalink: /
 description: > 
       <br>Assistant Professor<br>
-      <a href="https://www.ece.cornell.edu">[ECE]</a> <a href="http://csl.cornell.edu">[CSL]</a> <a href="https://www.tech.cornell.edu">[CTECH]</a> <br> 
+      <a href="https://www.ece.cornell.edu">[ECE]</a> <a href="http://csl.cornell.edu">[CSL]</a> <a href="https://www.tech.cornell.edu">[CT]</a> <br> 
       <a href="https://www.cornell.edu"><span>Cornell University</span></a> <br>
       <a href="mailto:mohamed@cornell.edu">mohamed@cornell.edu</a> <br> 
       <a href="/assets/pdf/cv_abdelfattah.pdf"><span>[cv]</span></a> 

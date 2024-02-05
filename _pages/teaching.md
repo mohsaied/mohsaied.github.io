@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-description:
+description: Click on a course to learn more.
 nav: true
 display_categories: 
 horizontal: false
