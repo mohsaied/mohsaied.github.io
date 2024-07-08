@@ -13,7 +13,7 @@ horizontal: false
 
   <tr style="border: none !important;">
     <th style="border: none !important; text-align:right;"><img src="/assets/img/ece6950_logo1.jpeg" width="120"/></th>
-    <th style="border: none !important;"> <b>Fall 2024</b>  <br> <a href="https://abdelfattah-class.github.io/ece6950/fa23"><font size="+1">ECE 6950 Deep Learning Efficiency</font></a></th>
+    <th style="border: none !important;"> <b>Fall 2024</b>  <br> <a href="https://abdelfattah-class.github.io/ece6950/fa23"><font size="+1">ECE 6950 Deep Learning Efficiency (Special Topics)</font></a></th>
   </tr>
 
   <tr style="border: none !important;">
@@ -23,7 +23,7 @@ horizontal: false
 
   <tr style="border: none !important;">
     <th style="border: none !important; text-align:right;"><img src="/assets/img/ece6950_logo.jpeg" width="120"/></th>
-    <th style="border: none !important;"> <b>Fall 2023</b>  <br> <a href="https://abdelfattah-class.github.io/ece6950/fa23"><font size="+1">ECE 6950 Reconfigurable Computing</font></a></th>
+    <th style="border: none !important;"> <b>Fall 2023</b>  <br> <a href="https://abdelfattah-class.github.io/ece6950/fa23"><font size="+1">ECE 6950 Reconfigurable Computing (Special Topics)</font></a></th>
   </tr>
 
   <tr style="border: none !important;">
