@@ -18,8 +18,6 @@ A strong candidate will have demonstrated:
 1. Academic excellence: High grades and ideally ranked within the top 5 of their class from a reputable undergraduate institution.
 1. Research potential: A publication (in-progress is fine) at a top-tier conference or involvement in a significant research project.
 
-Note: A master's degree helps to show a consistent academic/research profile but it is not required.
-
 My group is located in New York City at Cornell Tech, however, Cornell has a single PhD admissions system as described [here](https://tech.cornell.edu/programs/phd/phd-studies/).
 
 
