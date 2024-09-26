@@ -24,8 +24,8 @@ horizontal: false
 
 More students:
 - Junius Pun. Undergrad Researcher (Fall 2024)
-- Yifei Gao. MEng Researcher (2023/2024)
-- Yunhao Hu. MEng Researcher (2023/2024)
-- Aditya Kotha. Undergrad Researcher (2023/2024)
+- Yifei Gao. MEng Researcher (2024)
+- Yunhao Hu. MEng Researcher (2024)
+- Aditya Kotha. Undergrad Researcher (2024)
 - Xilai Dai. Undergrad Researcher (Summer 2023)
 - Yassine Ghannane. Undergrad Researcher (Summer 2022)
