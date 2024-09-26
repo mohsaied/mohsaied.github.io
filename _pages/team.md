@@ -23,7 +23,6 @@ horizontal: false
 </div>
 
 #### More students:
-- Junius Pun. Undergrad Researcher (Fall 2024)
 - Yifei Gao. MEng Researcher (2024)
 - Yunhao Hu. MEng Researcher (2024)
 - Aditya Kotha. Undergrad Researcher (2024)
