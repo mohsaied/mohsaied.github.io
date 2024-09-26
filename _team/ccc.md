@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chi-chih Chang
+title: Chi-Chih Chang
 description: PhD Student
 img: /assets/img/chichih.jpg
 importance: 3
