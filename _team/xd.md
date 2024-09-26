@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Xilai Dai
-description: Undergrad Researcher (summer 2023)
+description: PhD Student
 img: /assets/img/xilai.jpeg
 importance: 3
-redirect: 
-category: past
+redirect: https://www.linkedin.com/in/xilai-dai/
+category: current
 ---
