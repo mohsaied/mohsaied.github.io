@@ -23,6 +23,7 @@ horizontal: false
 </div>
 
 #### More students:
+- Anthony Fei. Undergrad Researcher (Summer 2024)
 - Yifei Gao. MEng Researcher (2024)
 - Yunhao Hu. MEng Researcher (2024)
 - Aditya Kotha. Undergrad Researcher (2024)
