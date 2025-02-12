@@ -28,7 +28,9 @@
     {% else %}
       <div class="title">
         
-        {% if entry.type == "article" %}
+        {% if entry.abbr == "preprint" %}
+          <a href="{{ entry.pdf }}" style="color: green" target=_blank>{{entry.title}}</a>
+        {% elsif entry.type == "article" %}
           {% if entry.pdf %}
           <a href="{{ entry.pdf }}" style="color: purple" target=_blank>{{entry.title}}</a>
           {% else %}
