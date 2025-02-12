@@ -9,6 +9,7 @@ description: >
       <a href="mailto:mohamed@cornell.edu">mohamed@cornell.edu</a> <br> 
       <a href="/assets/pdf/cv_abdelfattah.pdf"><span>[cv]</span></a> 
       <a href="/bio" ><span>[bio]</span></a>
+      <br>Cofounder/CSO at <a href="https://www.mako-dev.com"><span>Mako</span></a><br>
       <a href="#" onclick="$('#bionote').toggle(); return false;"><span>[office]</span></a> <br>
 
 profile:
