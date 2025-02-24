@@ -4,7 +4,7 @@ title: about
 permalink: /
 description: > 
       <br>Assistant Professor, <a href="https://www.cornell.edu"><span>Cornell University</span></a><br>
-      <a href="https://www.ece.cornell.edu">[ECE]</a> <a href="http://csl.cornell.edu">[CSL]</a> <a href="https://www.tech.cornell.edu">[CT]</a> <br> 
+      <a href="https://www.ece.cornell.edu">[ECE]</a> <a href="https://www.csl.cornell.edu/">[CSL]</a> <a href="https://www.tech.cornell.edu">[CT]</a> <br> 
       <a href="mailto:mohamed@cornell.edu">mohamed@cornell.edu</a> <br> 
       <a href="/assets/pdf/cv_abdelfattah.pdf"><span>[cv]</span></a> 
       <a href="/bio" ><span>[bio]</span></a>
@@ -47,10 +47,10 @@ social: true  # includes social icons at the bottom of the page
 
 
 My research group is investigating how best to build the next generation of machine-learning-centric computer systems.
-We study methods to co-design and co-optimize neural networks and the hardware on which they run, with a special interest in reconfigurable computing using devices like FPGAs.
+We study methods to co-design and co-optimize neural networks and the hardware on which they run, with a special interest in reconfigurable computing.
 Our goal is to enable efficient deep learning in both mobile devices and datacenters.
 Our current research projects include:
-- New programmable hardware architectures based on FPGAs.
+- End-to-end efficiency for large language Models (LLMs).
 - Automated machine learning (AutoML) and neural network compression.
-- Pre- and post-processing in machine learning systems.
-- Near-sensor machine learning for mobile devices.
+- New hardware architectures for machine learning.
+- Programmable hardware architectures based on FPGAs.
