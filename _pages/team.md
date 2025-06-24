@@ -2,8 +2,9 @@
 layout: page
 title: Team
 permalink: /team/
+redirect: https://abdelfattah-lab.github.io/
 description: Click for the <a href="https://confluence.cornell.edu/display/abdelfattah">internal group wiki</a>.
-nav: true
+nav: false
 display_categories: [current, past]
 horizontal: false
 ---
