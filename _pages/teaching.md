@@ -13,7 +13,12 @@ horizontal: false
 
   <tr style="border: none !important;">
     <th style="border: none !important; text-align:right;"><img src="/assets/img/ece5545_logo.jpeg" width="120"/></th>
-    <th style="border: none !important;"> <b>Spring 2025</b>  <br> <a href="https://abdelfattah-class.github.io/ece5545"><font size="+1">ECE 5545 / CS 5775 Machine Learning Hardware and Systems</font></a> </th>
+    <th style="border: none !important;"> <b>Spring 2026</b>  <br> <a href="https://abdelfattah-class.github.io/ece5545"><font size="+1">ECE 5545 / CS 5775 Machine Learning Hardware and Systems</font></a> </th>
+  </tr>
+
+  <tr style="border: none !important;">
+    <th style="border: none !important; text-align:right;"><img src="/assets/img/ece5545_logo.jpeg" width="120"/></th>
+    <th style="border: none !important;"> <b>Spring 2025</b>  <br> <a href="https://abdelfattah-class.github.io/ece5545/sp25"><font size="+1">ECE 5545 / CS 5775 Machine Learning Hardware and Systems</font></a> </th>
   </tr>
 
   <tr style="border: none !important;">
