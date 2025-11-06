@@ -14,7 +14,7 @@ keywords: # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-announcement:
+announcement: I am looking for post-docs that are broadly interested in efficient AI hardware or systems. Get in touch and apply to the [EmpireAI fellowships](https://academicjobsonline.org/ajo/jobs/30971) at Cornell.
 
 url: https://www.mohsaied.com/ # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
