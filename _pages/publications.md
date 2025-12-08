@@ -41,10 +41,8 @@ ___
 
 ___
 ### Patents
-1. Systems and Methods for Low-Precision Neural Network Deployment. *2024. Application Number: US63718962*
-1. Apparatus and Method for Compute in BRAM for Multiply-Accumulate Operations. *2023. Application Number: US63454275*
-1. Method and Apparatus for Video Super Resolution. *2020. Application Number: UKX*
-1. Method and Apparatus for Neural Architecture Search. *2020. Application Number: UK2015231.0*
-1. Method and Apparatus for Analysing Neural Network Performance. *2020. Application Number: UK20199106.4*
-1. Method for Designing Accelerator Hardware. *2019. Application Number: UK1913353.7*
-1. Field Programmable Gate-Array with Embedded Network-on-Chip Hardware and Design Flow. *2015. Application Number: US14060253*
+1. Electronic device and method for accelerating neural network computations. *2023. Application Number: US18/221,089*
+1. Method and Apparatus for Neural Architecture Search. *2020. Application Number: US17/477,851*
+1. Method and Apparatus for Analysing Neural Network Performance. *2020. Application Number: US17/514,840*
+1. Method for Designing Accelerator Hardware. *2019. Application Number: US17/015,724.7*
+1. Field Programmable Gate-Array with Embedded Network-on-Chip Hardware and Design Flow. *2015. Application Number: US14/060,253*
