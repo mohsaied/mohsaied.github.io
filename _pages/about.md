@@ -4,12 +4,13 @@ title: about
 permalink: /
 description: > 
       <br>Assistant Professor, <a href="https://www.cornell.edu"><span>Cornell University</span></a><br>
+      <a href="https://abdelfattah-lab.github.io/">[Group Website]</a><br>
       <a href="https://www.ece.cornell.edu">[ECE]</a> <a href="https://www.csl.cornell.edu/">[CSL]</a> <a href="https://www.tech.cornell.edu">[CT]</a> <br> 
       <a href="mailto:mohamed@cornell.edu">mohamed@cornell.edu</a> <br> 
       <a href="/assets/pdf/cv_abdelfattah.pdf"><span>[cv]</span></a> 
       <a href="/bio" ><span>[bio]</span></a>
       <a href="#" onclick="$('#bionote').toggle(); return false;"><span>[office]</span></a><br>
-      Cofounder/CSO, <a href="https://www.mako-dev.com"><span>Mako</span></a><br>
+      Cofounder/CSO, <a href="https://www.makora.com"><span>Makora</span></a><br>
 
 profile:
   align: right
