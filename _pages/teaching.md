@@ -12,6 +12,11 @@ horizontal: false
 <table style="border: none !important;">
 
   <tr style="border: none !important;">
+    <th style="border: none !important; text-align:right;"><img src="/assets/img/a4s_logo.png" width="120"/></th>
+    <th style="border: none !important;"> <b>Fall 2026</b>  <br> <a href="https://abdelfattah-class.github.io/ece6950_adrs/"><font size="+1">AI Agents for Systems Engineering</font></a></th>
+  </tr>
+
+  <tr style="border: none !important;">
     <th style="border: none !important; text-align:right;"><img src="/assets/img/ece5545_logo.jpeg" width="120"/></th>
     <th style="border: none !important;"> <b>Spring 2026</b>  <br> <a href="https://abdelfattah-class.github.io/ece5545"><font size="+1">ECE 5545 / CS 5775 Machine Learning Hardware and Systems</font></a> </th>
   </tr>
