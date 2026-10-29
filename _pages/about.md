@@ -54,4 +54,3 @@ Our current research projects include:
 - End-to-end efficiency for large language Models (LLMs).
 - Automated machine learning (AutoML) and neural network compression.
 - New hardware architectures for machine learning.
-- Programmable hardware architectures based on FPGAs.
